@@ -1,0 +1,30 @@
+p{
+    font-family: Arial;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+.site{
+    font-weight: bold;
+  
+}
+
+.site-2{
+    color: grey;
+
+}
+
+.site-3{
+    margin-right: 5px;
+    width: 520px;
+    margin-top: 7px;        
+}
+
+.site-4{
+    margin-top: 13px;
+}
+
+.site-5{
+    color: rgb(0, 149, 255);
+
+}

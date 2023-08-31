@@ -1,0 +1,36 @@
+p{
+    font-family: Arial;
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+
+.primeira-linha{
+    margin-bottom: 5px;
+}
+
+.first-num{
+    font-size: 30px;
+    
+}
+
+.second-num{
+    color: grey;
+    margin-left: 5px;
+    font-size: 15px;
+    
+}
+
+.third-num{
+    color: green;
+    font-size: 15px;
+    margin-bottom: 7px;
+       
+}
+
+.forth-num{
+    color: grey;
+}
+
+.fifth-num{
+    color: red;
+}
